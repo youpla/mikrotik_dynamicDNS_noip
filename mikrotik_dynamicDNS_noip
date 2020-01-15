@@ -5,6 +5,7 @@
 
 # version
 # 1.0 # does the job
+#
 
 #Note: When entering group credentials on a Dynamic DNS client, enter: groupname:username in the username field of the Dynamic DNS client and use the group password
 
